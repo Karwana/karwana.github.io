@@ -92,7 +92,6 @@ section {
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.05);
   margin-bottom: 20px;
-  border-left: 4px solid #007bff;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
